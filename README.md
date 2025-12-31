@@ -8,7 +8,7 @@ This project represents my first dive into frontend development. I built a funct
 * **Structure:** Used HTML tags like `<label>`, `<form>`, and `<center>` to organize content.
 
 ## Visual Preview
-![Contact Form Screenshot](image_92aaae.png)
+![Contact Form Screenshot](Screenshot 2025-12-31 174649.png)
 
 ## Learning Journey
 As this was my first project, the code reflects my initial learning stage. My next steps involve:
